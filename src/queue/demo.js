@@ -1,7 +1,3 @@
-/*
-* Archivo para demo(no pertenece a jQuery)
-* */
-
 function complexFunction(){
 	flag = true;
 	openssl = true;
